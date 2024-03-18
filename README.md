@@ -6,6 +6,11 @@
 - 💞️ I’m looking to collaborate more on full-stack development work/ in seach for more oppourtunities to network with other software developers.
 - 📫 How to reach me email me thooi998@gmail.com.
 
+Current Certification:
+  * AZ-900
+  * DP-900
+  * AI-900
+
 Please raech out to me if you have any interesting projects that you would like to collaborate with me. 
 
 Web Developer in #NodeJS #Python C# #ReactJS #TypeScript #Azure
